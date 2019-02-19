@@ -1,0 +1,12 @@
+git remote add origin https://github.com/frafrakki/hello.git 
+    helloリポジトリをデフォルトのリモートリポジトリに設定
+
+git add "ファイル名"
+    ファイルをインデックスに追加
+git commit -m []
+    インデックスのファイルをローカルリポジトリに記録
+git push origin master
+    デフォルトのリモートリポジトリのmasterブランチに、ローカルリポジトリのファイルを反映
+
+git pull origin master
+デフォルトのリモートリポジトリのmasterブランチから、ローカルリポジトリにファイルを反映
