@@ -14,5 +14,7 @@ git pull origin master
 git branch 
     リポジトリ内部のブランチ確認
 git branch "ブランチ名"
+    指定したブランチを作成
+git checkout "ブランチ名"
     指定したブランチに移動
 
